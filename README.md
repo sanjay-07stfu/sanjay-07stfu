@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm sanjay yedage
-**A passionate Ai/Ml Engineer || FullStack Web Devloper ||**
+**A passionate Ai/Ml Engineer || FullStack Web Developer ||**
 
 Email Me 👉 ✉️ **yedagesanjay8@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** my diploma last year capstone project
-- 🌱 **I’m currently learning:** dev development and python al/ml libraries
+- 🌱 **I’m currently learning:** web development and python ai/ml libraries
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** +91 9699429298
 - 😄 **Pronouns:** Sanjay!!
