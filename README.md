@@ -6,8 +6,8 @@ Email Me 👉 ✉️ **yedagesanjay8@gmail.com** For Collaboration/Project or An
 - 🔭 **I’m currently working on:** my diploma last year capstone project
 - 🌱 **I’m currently learning:** dev development and python al/ml libraries
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** yedagesanjay8@gmail.com
-- 😄 **Pronouns:** Sanjay
+- 📫 **How to reach me:** +91 9699429298
+- 😄 **Pronouns:** Sanjay!!
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
