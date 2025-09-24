@@ -1,5 +1,8 @@
 # 💫 Hi 👋, I'm sanjay yedage
 **A passionate Ai/Ml Engineer || FullStack Web Developer ||**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sanjay-07stfu&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-07stfu" />
+</p>
 
 Email Me 👉 ✉️ **yedagesanjay8@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
