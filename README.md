@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **yedagesanjay8@gmail.com** For Collaboration/Project or An
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanjay-07stfu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjuu_stfu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayyedage) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sanjuu_stfu_05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yedagesanjay8@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjuu_stfu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-yedage-9a216934b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sanjuu_stfu_05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yedagesanjay8@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
