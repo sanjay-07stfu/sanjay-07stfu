@@ -6,6 +6,7 @@
 
 Email Me 👉 ✉️ **yedagesanjay8@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+👨‍💻 All of my projects are available at 
 - 🔭 **I’m currently working on:** my diploma last year capstone project
 - 🌱 **I’m currently learning:** web development and python ai/ml libraries
 - 💬 **Ask me about:** Collaboration, Tech Support
