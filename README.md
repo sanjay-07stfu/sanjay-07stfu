@@ -6,7 +6,7 @@
 
 Email Me 👉 ✉️ **yedagesanjay8@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-👨‍💻 All of my projects are available at https://sanjay-07stfu.github.io/Sanjay-Yedage---Personal-Portfolio/
+👨‍💻 All of my projects are available at https://sanjay-07stfu.github.io/my-new-portfolio/
 
 
 
